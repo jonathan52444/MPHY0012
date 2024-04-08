@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 """
 
-
 @author: jonathanfung
 """
 #Combine multiple masks from different channesl
