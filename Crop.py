@@ -14,11 +14,10 @@ source_dir = ""
 target_dir = ""
 
 
-# Check if target directory exists, if not create it
 if not os.path.exists(target_dir):
     os.makedirs(target_dir)
 
-# Loop over the images
+#Loop over the images
 for i in range(1, 41):
     # Open image
     img = Image.open(os.path.join(source_dir, f"{i}.tif"))
