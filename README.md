@@ -13,7 +13,7 @@ The protocol for this pipeline is included in this repository, alongside some us
 - `CompareMasks.py`: Compares ground truth mask against an algorithm's segmented mask
 - `Crop.py`: Crops input images to a smaller field of view
 - `ReadMastodonFiles.py`: Extracts lineage trees from Mastodon
-- 'CellPopulation.py`: Takes extracted information from lineage trees, plot cell population over time
-- 'CellNuclearArea.py`: Takes extracted information from lineage trees, plot cell nuclear area over time
+- 'CellPopulation.py` : Takes extracted information from lineage trees, plot cell population over time
+- 'CellNuclearArea.py` : Takes extracted information from lineage trees, plot cell nuclear area over time
 
 
